@@ -1,0 +1,148 @@
+ [
+    {
+      "id": 1,
+      "fecha": "2024-02-24",
+      "titulo": "Manchester United contrata a una nueva estrella",
+      "descripcion": "El Manchester United anuncia la incorporación de una nueva estrella para reforzar su plantilla.",
+      "imagen": "noticia01.jpg",
+      "autor": "Nombre del autor 1"
+    },
+    {
+      "id": 2,
+      "fecha": "2024-02-24",
+      "titulo": "Victoria crucial del Manchester United en la Premier League",
+      "descripcion": "El Manchester United logra una importante victoria en la liga, acercándose al liderato.",
+      "imagen": "noticia02.jpg",
+      "autor": "Nombre del autor 2"
+    },
+    {
+      "id": 3,
+      "fecha": "2024-02-24",
+      "titulo": "Lesión de un jugador clave del Manchester United",
+      "descripcion": "El Manchester United afronta la noticia de la lesión de uno de sus jugadores estrella.",
+      "imagen": "noticia03.jpg",
+      "autor": "Nombre del autor 3"
+    },
+    {
+      "id": 4,
+      "fecha": "2024-02-24",
+      "titulo": "Rumores de fichajes en el Manchester United",
+      "descripcion": "Los rumores de posibles fichajes y salidas en el Manchester United toman fuerza en el mercado de pases.",
+      "imagen": "noticia04.jpg",
+      "autor": "Nombre del autor 4"
+    },
+    {
+      "id": 5,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia05.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 6,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia06.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 7,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia07.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia08.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia09.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia10.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia11.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia12.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia13.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia14.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia15.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia16.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia17.jpg",
+      "autor": "Nombre del autor 5"
+    },
+    {
+      "id": 8,
+      "fecha": "2024-02-24",
+      "titulo": "Entrevista exclusiva con el entrenador del Manchester United",
+      "descripcion": "El entrenador del Manchester United ofrece una entrevista exclusiva hablando sobre el futuro del equipo.",
+      "imagen": "noticia18.jpg",
+      "autor": "Nombre del autor 5"
+    }
+
+
+  ]
